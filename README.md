@@ -1,4 +1,4 @@
-# [Ronald Espinoza] 👨‍💻👩‍💻
+# Ronald Espinoza 👨‍💻👩‍💻
 
 ## Perfil Profesional 🌐
 
@@ -16,35 +16,17 @@ Mi objetivo es seguir desarrollando soluciones basadas en datos que optimicen pr
 - **Bases de datos**: MySQL y PostgreSQL🗄️  
 - **Despliegue de modelos**: Docker y Google Cloud Platform ☁️
 
-## Proyectos Destacados 📂
-
-### 1. [Nombre del Proyecto 1]  
-   - **Descripción**: Desarrollo de un modelo de machine learning para la predicción de [problema a resolver] en [industria], utilizando [técnicas específicas] que mejoraron la precisión en un [X]% 📈.  
-   - **Tecnologías**: Python, Scikit-learn, Pandas, Numpy  
-   - **Resultados**: Implementación del modelo en producción, logrando una mejora del [X]% en [indicador clave].  
-   - **Enlace**: [Acceder al repositorio](#)
-
-### 2. [Nombre del Proyecto 2]  
-   - **Descripción**: Análisis exploratorio de datos y visualización interactiva en un dataset de [tema o industria]. El proyecto incluyó la transformación de datos no estructurados y la identificación de patrones clave. 🔍  
-   - **Tecnologías**: R, ggplot2, Shiny  
-   - **Resultados**: Identificación de oportunidades de optimización que permitieron a la empresa mejorar un [X]% en [métrica clave].  
-   - **Enlace**: [Acceder al repositorio](#)
-
-### 3. [Nombre del Proyecto 3]  
-   - **Descripción**: Diseño de un pipeline de procesamiento de datos en tiempo real utilizando tecnologías Big Data, optimizando la eficiencia del procesamiento en un [X]% y reduciendo los tiempos de respuesta. ⚡  
-   - **Tecnologías**: Apache Spark, AWS, Docker  
-   - **Enlace**: [Acceder al repositorio](#)
-
 ## Formación Académica 🎓
 
-- **[Título Académico]** en [Nombre de la Universidad], [Año]  
+- **Ingeniería económica** en Univesidad Nacional de INgeniería, 2011  
 - **Cursos y certificaciones adicionales**:  
-  - [Certificación relevante] 📜  
-  - [Curso especializado en Ciencia de Datos] 🧠
+  - Bootcamp de Data Science 📜  
+  - Arquitectura big data 🧠
+  - Microsoft Power BI Data Analyst 📊
 
 ## Contacto 📬
 
-- **Correo electrónico**: [tu_email@example.com]  
-- **LinkedIn**: [tu_linkedin]  
-- **Portafolio**: [enlace_a_tu_portafolio]
+- **Correo electrónico**: espinozajr52@gmail.com     
+- **LinkedIn**: [[Mi_linkedin]](https://www.linkedin.com/in/ronaldespinoza/)  
+- **Portafolio**: [[enlace_a_mi_portafolio](https://github.com/ronaldespal/ronaldespal/)]
 
